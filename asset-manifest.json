@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc373101.css",
+    "main.js": "/static/js/main.b9f396bf.js",
+    "static/js/787.e4f295d4.chunk.js": "/static/js/787.e4f295d4.chunk.js",
+    "static/media/swa.png": "/static/media/swa.1e566acac4341dd33715.png",
+    "static/media/roomez.png": "/static/media/roomez.4d0da99664f66dbaac0a.png",
+    "static/media/restcountries.png": "/static/media/restcountries.d47f54fb9a21a47325ea.png",
+    "static/media/SqlLogo.png": "/static/media/SqlLogo.85fb38d6773862e917f4.png",
+    "static/media/pwdmanager.png": "/static/media/pwdmanager.74e41fcb8cc8709478d9.png",
+    "static/media/quiz.png": "/static/media/quiz.06ba1d319f73a5669275.png",
+    "static/media/ReactLogo.png": "/static/media/ReactLogo.37940586dd863909ffca.png",
+    "static/media/PythonLogo.png": "/static/media/PythonLogo.2e65c2b73eddaaf97e06.png",
+    "static/media/PhpIcon.png": "/static/media/PhpIcon.4990580e9b615aeebb1f.png",
+    "static/media/CssIcon.png": "/static/media/CssIcon.26a00a6efead3b95dcb7.png",
+    "static/media/HtmlIcon.png": "/static/media/HtmlIcon.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/JsLogo.png": "/static/media/JsLogo.db393457bf6303d846d6.png",
+    "static/media/SassIcon.webp": "/static/media/SassIcon.864bea45dc1bb9c357cb.webp",
+    "index.html": "/index.html",
+    "main.fc373101.css.map": "/static/css/main.fc373101.css.map",
+    "main.b9f396bf.js.map": "/static/js/main.b9f396bf.js.map",
+    "787.e4f295d4.chunk.js.map": "/static/js/787.e4f295d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc373101.css",
+    "static/js/main.b9f396bf.js"
+  ]
+}
